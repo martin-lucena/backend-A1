@@ -1,0 +1,15 @@
+C:\Users\MLucen\Desktop\Backend\A1\C#-A1\obj\Debug\net6.0\C#-A1.csproj.AssemblyReference.cache
+C:\Users\MLucen\Desktop\Backend\A1\C#-A1\obj\Debug\net6.0\C#-A1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MLucen\Desktop\Backend\A1\C#-A1\obj\Debug\net6.0\C#-A1.AssemblyInfoInputs.cache
+C:\Users\MLucen\Desktop\Backend\A1\C#-A1\obj\Debug\net6.0\C#-A1.AssemblyInfo.cs
+C:\Users\MLucen\Desktop\Backend\A1\C#-A1\obj\Debug\net6.0\C#-A1.csproj.CoreCompileInputs.cache
+C:\Users\MLucen\Desktop\Backend\A1\C#-A1\bin\Debug\net6.0\C#-A1.exe
+C:\Users\MLucen\Desktop\Backend\A1\C#-A1\bin\Debug\net6.0\C#-A1.deps.json
+C:\Users\MLucen\Desktop\Backend\A1\C#-A1\bin\Debug\net6.0\C#-A1.runtimeconfig.json
+C:\Users\MLucen\Desktop\Backend\A1\C#-A1\bin\Debug\net6.0\C#-A1.dll
+C:\Users\MLucen\Desktop\Backend\A1\C#-A1\bin\Debug\net6.0\C#-A1.pdb
+C:\Users\MLucen\Desktop\Backend\A1\C#-A1\obj\Debug\net6.0\C#-A1.dll
+C:\Users\MLucen\Desktop\Backend\A1\C#-A1\obj\Debug\net6.0\refint\C#-A1.dll
+C:\Users\MLucen\Desktop\Backend\A1\C#-A1\obj\Debug\net6.0\C#-A1.pdb
+C:\Users\MLucen\Desktop\Backend\A1\C#-A1\obj\Debug\net6.0\C#-A1.genruntimeconfig.cache
+C:\Users\MLucen\Desktop\Backend\A1\C#-A1\obj\Debug\net6.0\ref\C#-A1.dll
