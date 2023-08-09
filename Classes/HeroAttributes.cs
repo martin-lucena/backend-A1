@@ -19,7 +19,7 @@ namespace A1_Dungeon_Master.Classes.Heroes
             Intelligence = intelligence;
         }
 
-        public HeroAttributes AddAttributes(HeroAttributes attributes) // kolla om det verkligen behövs!
+        public HeroAttributes AddAttributes(HeroAttributes attributes) 
         {
             int newStrength = Strength + attributes.Strength;
             int newDexterity = Dexterity + attributes.Dexterity;

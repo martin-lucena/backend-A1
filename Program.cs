@@ -6,8 +6,7 @@ namespace C__A1
     {
         static void Main(string[] args)
         {
-            Archer archer = new Archer("martin");
-            archer.Display();
+            
         }
     }
 }

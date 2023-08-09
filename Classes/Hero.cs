@@ -12,15 +12,11 @@ namespace A1_Dungeon_Master.Classes.Heroes
     public abstract class Hero
     {
 
-        //private Equipment: equipment;
 
 
         public string Name { get; set; }
         public int Level { get; set; }
         public int LevelAttributes { get; set; }
-        //public List<string> Equipment { get; set; }
-
-        //public Equipment Equipment { get; set; }
 
         public int Damagingattribute { get; set; }
 
@@ -86,10 +82,7 @@ namespace A1_Dungeon_Master.Classes.Heroes
             }
         }
 
-        //public void AddAttributes(HeroAttributes attributes)
-        //{
-        //    attributes = attributes.AddAttributes(attributes);
-        //}
+     
         public void IncreaseAttributes(int increaseStrength, int increaseDexterity, int increaseIntelligence)
         {
             attributes.IncreaseAttributes(increaseStrength, increaseDexterity, increaseIntelligence);
